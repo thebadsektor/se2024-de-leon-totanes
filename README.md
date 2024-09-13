@@ -29,9 +29,6 @@ Describe the project in detail. Include:
 
 ## Objectives
 We believe that efficient crime record management is crucial for effective law enforcement, and our "Crime Record Management System" project is a step in that direction. By combining cutting-edge technologies and a user-centered approach, we aim to revolutionize the way crime data is handled and analyzed. We invite you to explore, contribute, and collaborate to make our criminal justice system more effective and data-driven.
-- Develop a solution for [problem].
-- Implement features to [goal].
-- Test and validate [key aspect].
 
 ## Features
 List the main features of the project:
