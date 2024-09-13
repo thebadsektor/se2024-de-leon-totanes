@@ -20,16 +20,16 @@
 Welcome to the Crime Record Management System repository! This project encompasses three user interfaces: CID, admin, and officer. Employing PHP, HTML, JavaScript, CSS, and MySQL, it offers efficient crime data management. Seamlessly handle records and interactions within the law enforcement ecosystem through this comprehensive system.
 
 ## Project Overview
-Describe the project in detail. Include:
-- The project's background or context.
-- Its target audience or users.
-- Any real-world applications or potential impact.
+This repository hosts a comprehensive Database Management System (DBMS) project aimed at enhancing crime record management and analysis. Our project is designed to streamline the process of recording, organizing, and analyzing criminal activities, ensuring a more efficient and data-driven approach for law enforcement agencies.
+- enhancing crime record management and analysis.
+- streamline the process of recording, organizing.
+- analyzing criminal activities, ensuring a more efficient and data-driven approach for law enforcement agencies.
 
 ## Objectives
 We believe that efficient crime record management is crucial for effective law enforcement, and our "Crime Record Management System" project is a step in that direction. By combining cutting-edge technologies and a user-centered approach, we aim to revolutionize the way crime data is handled and analyzed. We invite you to explore, contribute, and collaborate to make our criminal justice system more effective and data-driven.
 
 ## Features
-List the main features of the project:
+main features of the project:
 - Feature 1: Admin
 
 Admin Dashboard
@@ -66,7 +66,6 @@ Our project employs a robust tech stack including PHP, HTML, JavaScript, CSS, an
 
 Requirements
 
-
 Download and Install any local web server such as XAMPP/WAMP.
 Download the provided source code zip file. (download button is located below.
 Installation/Setup
@@ -92,7 +91,7 @@ Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL. If you are 
 
 
 ## Project Structure
-The Project Directory Example:
+Project Directory:
 ```bash
 .
 └── Local Disk (C:)/
@@ -104,15 +103,11 @@ The Project Directory Example:
 
 ## Contributors
 
-List all the team members involved in the project. Include their roles and responsibilities:
-
 - **John Loinel R. De Leon**: Lead Developer, Backend Developer
 - **Carla Totanes**: Frontend Developer, UI/UX Designer
 - **Gerald Villaran**: Project Manager, Tester
 
 ## Project Timeline
-
-Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Research and project planning.
 - **Week 3-5**: Design and setup.
