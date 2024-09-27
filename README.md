@@ -1,5 +1,7 @@
 # SD-3101 [Crime Record Management System]
 
+![Picture1](https://github.com/user-attachments/assets/1760d054-346a-46f7-99a2-6d60cb6830b3)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
@@ -94,11 +96,31 @@ Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL. If you are 
 Project Directory:
 ```bash
 .
-└── Local Disk (C:)/
-    └── xampp  /
-        └── htdocs/
-            └── Crime_Record_Managment_System-main/
-                └── readme.md
+.
+└── Crime_Record_Managment_System-main/
+    ├── \.git
+    ├── \admin
+    ├── \assets
+    ├── \cid
+    ├── \ckeditor
+    ├── \class
+    ├── \css
+    ├── \database
+    ├── \DB file/
+    │   └── Bijapurpolice.sql
+    ├── \interface
+    ├── \js
+    ├── \officer  
+    ├── dbconnect.php
+    ├── header.php
+    ├── index.php
+    ├── login.php
+    ├── logincheck.php
+    ├── menubar.php
+    ├── readme.md
+    ├── savecidstatement.php
+    ├── scripts.php
+    └── session.php
 ```
 
 ## Contributors
