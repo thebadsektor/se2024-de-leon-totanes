@@ -89,18 +89,21 @@ Installation/Setup
 Account Type and Password 
 
 Admin
-100 - djain123
-101 - agarwal123
+
+Account = 100 - Pass = djain123
+Account =101 - Pass = agarwal123
 
 NCO
-113 - ajay123
-114 - usmani123
-117 - bijapur123
+
+Account =113 - Pass = ajay123
+Account =114 - Pass = usmani123
+Account =117 - Pass = bijapur123
 
 CID
-115 - sukali123
-116 - attar123
-110 - shaikh123
+
+Account =115 - Pass = sukali123
+Account =116 - Pass = attar123
+Account =110 - Pass = shaikh123
 
 
 ## Usage Instructions
