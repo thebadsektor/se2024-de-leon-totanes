@@ -84,7 +84,23 @@ Installation/Setup
 
 6.Import the provided SQL file. The file is known as ghpolice.sql located inside the DB File folder.
 
-7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.
+7.Browse the Police Crime Record Management System System in a browser. i.e. (http://localhost/bijapurpolice)  - rename to - http://localhost/se2024-de-leon-totanes.
+
+Account Type and Password 
+
+Admin
+100 - djain123
+101 - agarwal123
+
+NCO
+113 - ajay123
+114 - usmani123
+117 - bijapur123
+
+CID
+115 - sukali123
+116 - attar123
+110 - shaikh123
 
 
 ## Usage Instructions
