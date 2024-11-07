@@ -91,18 +91,23 @@ Account Type and Password
 Admin
 
 Account = 100 - Pass = djain123
+
 Account =101 - Pass = agarwal123
 
 NCO
 
 Account =113 - Pass = ajay123
+
 Account =114 - Pass = usmani123
+
 Account =117 - Pass = bijapur123
 
 CID
 
 Account =115 - Pass = sukali123
+
 Account =116 - Pass = attar123
+
 Account =110 - Pass = shaikh123
 
 
